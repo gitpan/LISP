@@ -1,0 +1,8 @@
+Changes
+lib/LISP.pm
+lib/LISP/Lambda.pm
+lib/LISP/List.pm
+MANIFEST
+Makefile.PL
+remake
+test.pl

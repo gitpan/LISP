@@ -1,0 +1,6 @@
+#!/bin/ksh
+
+
+make distclean
+perl Makefile.PL
+make

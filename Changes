@@ -1,0 +1,6 @@
+Revision history for Perl extension LISP.
+
+0.01  Tue Oct 31 09:34:00 2000
+	- original version; created by h2xs 1.20 with options
+		-X -n LISP
+
